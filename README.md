@@ -1,2 +1,2 @@
 # Ejercicio2
-Ejercicio 2 muestra lo trabajado previamente en el p5 editor, que son esferas saludando a todas las personas "modorras" que lo vean
+Ejercicio 2 hace paso a paso lo que en el tutorial nos enseña hasta el episodio "pull or fork request" porque no lo junte con ninguna otra cuenta. 
